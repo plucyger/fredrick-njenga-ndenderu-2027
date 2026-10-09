@@ -6,3 +6,6 @@
 
 .portrait{object-position:64% 15%}@media(max-width:640px){.portrait{object-position:61% 12%}}
 
+
+.intro-copy>p{font-size:15px;line-height:1.9;color:#56635b;margin:0 0 17px}.intro-copy .message-signature{font:700 17px var(--display);color:var(--green);margin:24px 0 20px}.priority{min-height:240px}.priority p{max-width:none}@media(max-width:640px){.intro-copy>p{font-size:14px}.priority{min-height:0;padding-bottom:28px}}
+
